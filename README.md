@@ -23,13 +23,13 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
 ### Tech Stack & Tools
 
 #### ☁️ Cloud & Infrastructure Security
-🚀 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ⚡ ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 📦 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 🗺️ ![VPC Flow Logs](https://img.shields.io/badge/VPC_Flow_Logs-00FFCC?style=for-the-badge)
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)  ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)  ![VPC Flow Logs](https://img.shields.io/badge/VPC_Flow_Logs-00FFCC?style=for-the-badge)
 
 #### 🔍 Digital Forensics & Scanning
-🔬 ![Autopsy](https://img.shields.io/badge/Autopsy_Forensics-0052CC?style=for-the-badge&logo=analysis) 💾 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-Read%20Only-red?style=for-the-badge) 🕸️ ![Nikto](https://img.shields.io/badge/Nikto_Scanner-Security-orange?style=for-the-badge) 🛠️ ![Nmap](https://img.shields.io/badge/Nmap-Network-blue?style=for-the-badge)
+ ![Autopsy](https://img.shields.io/badge/Autopsy_Forensics-0052CC?style=for-the-badge&logo=analysis)  ![FTK Imager](https://img.shields.io/badge/FTK_Imager-Read%20Only-red?style=for-the-badge)  ![Nikto](https://img.shields.io/badge/Nikto_Scanner-Security-orange?style=for-the-badge)  ![Nmap](https://img.shields.io/badge/Nmap-Network-blue?style=for-the-badge)
 
 #### 🐍 Development & Data Pipelines
-💻 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 🎛️ ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 📊 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)  ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 
 ---
 
@@ -50,7 +50,4 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
   <a href="https://linkedin.com/in/abdulazizabbasi">
     <img src="https://img.shields.io/badge/Connect%20On-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizabbasi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
