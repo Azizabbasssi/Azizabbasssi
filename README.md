@@ -1,4 +1,4 @@
-# <p align="center">👋 Welcome to My Digital Security Space</p>
+# <p align="center">👋 Welcome to My Digital Space</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Abdul+Aziz+Abbasi;BS+Cybersecurity+Student;Digital+Forensics+Analyst;Cloud+Security+Automator" alt="Typing SVG" />
@@ -14,6 +14,10 @@
 ### 🛡️ About Me
 I am an up-and-coming **Security Engineer** focusing on building automated cloud security infrastructure, executing digital forensics investigations, and designing secure data streams. I love building environments that catch threats and analyzing the forensic data left behind.
 
+* 🌐 **What I do:** I bridge the gap between cloud engineering and incident response by turning raw security logs into actionable threat intelligence.
+* ☁️ **Cloud Security:** I build serverless detection pipelines on AWS using **Lambda, VPC Flow Logs, and EventBridge** to catch and map live brute-force attack vectors in real-time.
+* 🔍 **Digital Forensics:** I perform deep-dive data recovery and artifact analysis using **Autopsy** and **FTK Imager**, ensuring strict evidence preservation and cryptographic verification.
+* ⚙️ **Systems & Automation:** Passionate about writing automated security tooling, hardening host configurations, and exploring secure data pipelining frameworks.
 ---
 
 ### 🧰Tech Stack & Tools
