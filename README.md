@@ -55,6 +55,7 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
 🤖 **Advanced Cybersecurity Engineering Metrics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizabbasi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizabbasi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulazizabbasi&theme=tokyonight&no-bg=true&margin-w=15" alt="abdulazizabbasi GitHub Trophies" />
+  </a>
 </p>
