@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&width=500&lines=Building+Cloud+Security+Pipelines;Executing+Digital+Forensics;Turning+Raw+Logs+into+Threat+Intel" alt="Typing SVG" />
 
-I am an up-and-coming **XCyberSecurity Engineer** bridging the gap between cloud infrastructure engineering and deep-dive incident response. I build automated environments that catch threat actors and analyze the forensic data left behind.
+I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud infrastructure engineering and deep-dive incident response. I build automated environments that catch threat actors and analyze the forensic data left behind.
 
 * ☁️ **Cloud Sec:** Engineering serverless AWS pipelines (**Lambda, VPC Flow Logs, EventBridge**) to map live threat vectors.
 * 🔍 **Forensics:** Executing data recovery and artifact analysis via **Autopsy** & **FTK Imager** under strict cryptographic verification.
