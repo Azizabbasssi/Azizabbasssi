@@ -10,15 +10,15 @@
 </p>
 
 ---
-
 ### 🛡️ About Me
-I am an up-and-coming **Security Engineer** focusing on building automated cloud security infrastructure, executing digital forensics investigations, and designing secure data streams. I love building environments that catch threats and analyzing the forensic data left behind.
 
-* 🌐 **What I do:** I bridge the gap between cloud engineering and incident response by turning raw security logs into actionable threat intelligence.
-* ☁️ **Cloud Security:** I build serverless detection pipelines on AWS using **Lambda, VPC Flow Logs, and EventBridge** to catch and map live brute-force attack vectors in real-time.
-* 🔍 **Digital Forensics:** I perform deep-dive data recovery and artifact analysis using **Autopsy** and **FTK Imager**, ensuring strict evidence preservation and cryptographic verification.
-* ⚙️ **Systems & Automation:** Passionate about writing automated security tooling, hardening host configurations, and exploring secure data pipelining frameworks.
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&width=500&lines=Building+Cloud+Security+Pipelines;Executing+Digital+Forensics;Turning+Raw+Logs+into+Threat+Intel" alt="Typing SVG" />
+
+I am an up-and-coming **XCyberSecurity Engineer** bridging the gap between cloud infrastructure engineering and deep-dive incident response. I build automated environments that catch threat actors and analyze the forensic data left behind.
+
+* ☁️ **Cloud Sec:** Engineering serverless AWS pipelines (**Lambda, VPC Flow Logs, EventBridge**) to map live threat vectors.
+* 🔍 **Forensics:** Executing data recovery and artifact analysis via **Autopsy** & **FTK Imager** under strict cryptographic verification.
+* ⚙️ **Automation:** Developing automated security tooling, hardening host configs, and optimizing secure data streams.
 
 ### 🧰Tech Stack & Tools
 
