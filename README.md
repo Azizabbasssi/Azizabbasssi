@@ -52,10 +52,4 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
   </a>
 </p>
 
-🤖 **Advanced Cybersecurity Engineering Metrics**
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulazizabbasi&theme=tokyonight&no-bg=true&margin-w=15" alt="abdulazizabbasi GitHub Trophies" />
-  </a>
-</p>
+![Github Snake Animation](https://raw.githubusercontent.com/abdulazizabbasi/abdulazizabbasi/output/github-contribution-grid-snake-dark.svg)
