@@ -16,7 +16,7 @@ I am an up-and-coming **Security Engineer** focusing on building automated cloud
 
 ---
 
-### 🧰 Animated Tech Stack & Tools
+### 🧰Tech Stack & Tools
 
 #### ☁️ Cloud & Infrastructure Security
 🚀 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ⚡ ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) 📦 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white) 🗺️ ![VPC Flow Logs](https://img.shields.io/badge/VPC_Flow_Logs-00FFCC?style=for-the-badge)
