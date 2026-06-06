@@ -52,5 +52,9 @@ I am an up-and-coming **CyberSecurity Engineer** bridging the gap between cloud 
   </a>
 </p>
 
-🤖 **3D Metric Architecture Grid**
-![](https://github-profile-3d-contrib.vercel.app/api?username=abdulazizabbasi&theme=night_green)
+🤖 **Advanced Cybersecurity Engineering Metrics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulazizabbasi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizabbasi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
